@@ -1,0 +1,143 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>El blog de s1s1fo</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2026-09-28T18:24:32-05:00</updated>
+  <author>
+    <name>s1s1fo</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es-ES"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 s1s1fo </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>pwnable.kr series (3) - Grotesque</title>
+    <link href="http://localhost:4000/posts/pwnable-kr-Grotesque/" rel="alternate" type="text/html" title="pwnable.kr series (3) - Grotesque" />
+    <published>2026-07-15T07:27:43-05:00</published>
+  
+    <updated>2026-09-20T19:11:29-05:00</updated>
+  
+    <id>http://localhost:4000/posts/pwnable-kr-Grotesque/</id>
+    <content type="text/html" src="http://localhost:4000/posts/pwnable-kr-Grotesque/" />
+    <author>
+      <name>s1s1fo</name>
+    </author>
+
+  
+    
+    <category term="pwnable.kr" />
+    
+  
+
+  <summary>pwnable.kr es un sitio web no comercial que contiene retos enfocados a desarrollar habilidades en explotación binaria, división conocida coloquialmente como “pwn” en sitios afines.  Los retos en pwnable.kr se dividen en cuatro categorías. Ordenadas de la más fácil a la más difícil:    [Toddler’s Bottle]   [Rookiss]   [Grotesque]   [Hacker’s Secret]   En el artículo anterior presenté las solucio...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Una pequeña introducción al ROM hacking</title>
+    <link href="http://localhost:4000/posts/GBA-hacking/" rel="alternate" type="text/html" title="Una pequeña introducción al ROM hacking" />
+    <published>2026-06-22T17:57:11-05:00</published>
+  
+    <updated>2026-09-20T19:11:29-05:00</updated>
+  
+    <id>http://localhost:4000/posts/GBA-hacking/</id>
+    <content type="text/html" src="http://localhost:4000/posts/GBA-hacking/" />
+    <author>
+      <name>s1s1fo</name>
+    </author>
+
+  
+    
+    <category term="Juegos" />
+    
+  
+
+  <summary>Hoy compartiré una forma sencilla de modificar el comportamiento de juegos para Game Boy Advance. Y otra para casos más complejos usando una API de un emulador. Para este tutorial usaré “Pokemon Mistery Dungeon: Red Rescue Team” (la versión americana) disponible para descargar aquí. Como emulador usaré mgba.  Conceptos básicos  El término ROM literalmente significa ‘Read-Only Memory’, un tipo d...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Decompilando y modificando un juego de Unity para Android</title>
+    <link href="http://localhost:4000/posts/Decompiling-Stardew-Valley/" rel="alternate" type="text/html" title="Decompilando y modificando un juego de Unity para Android" />
+    <published>2026-06-03T04:46:46-05:00</published>
+  
+    <updated>2026-09-20T19:11:29-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Decompiling-Stardew-Valley/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Decompiling-Stardew-Valley/" />
+    <author>
+      <name>s1s1fo</name>
+    </author>
+
+  
+    
+    <category term="Juegos" />
+    
+  
+
+  <summary>Stardew Valley es el simulador de granjas más popular que existe hasta la fecha. Durante un tiempo jugué la versión móvil, tenía un viejo APK guardado así que se me ocurrió intentar abrirlo y ver algunas cosas.  Introducción En este artículo cubriré el proceso de ingeniería inversa de un juego de Unity para Android. La versión utilizada fue la 1.4.5. Se puede descargar aquí.  Herramientas utili...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Analizando un juego de RPGMaker</title>
+    <link href="http://localhost:4000/posts/Analyzing-Violet-And-The-Lost-Colors/" rel="alternate" type="text/html" title="Analizando un juego de RPGMaker" />
+    <published>2026-05-20T04:43:39-05:00</published>
+  
+    <updated>2026-09-20T19:11:29-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Analyzing-Violet-And-The-Lost-Colors/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Analyzing-Violet-And-The-Lost-Colors/" />
+    <author>
+      <name>s1s1fo</name>
+    </author>
+
+  
+    
+    <category term="Juegos" />
+    
+  
+
+  <summary>Estaba jugando este juego indie que encontré en itch.io. Le dediqué un par de horas, lo completé y sin embargo vi que me faltaban unas dos entradas del bestiario. Curioso, porque estaba casi seguro de que lo había terminado al 100%.    Soy una especie de adicto a tener este tipo de “compendios” o “wikis” internas de los juegos enteramente desbloqueados. Esto sumado al hecho de que nunca había i...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>pwnable.kr series (2) - Rookiss</title>
+    <link href="http://localhost:4000/posts/pwnable-kr-Rookiss/" rel="alternate" type="text/html" title="pwnable.kr series (2) - Rookiss" />
+    <published>2026-05-04T15:04:16-05:00</published>
+  
+    <updated>2026-09-20T19:11:29-05:00</updated>
+  
+    <id>http://localhost:4000/posts/pwnable-kr-Rookiss/</id>
+    <content type="text/html" src="http://localhost:4000/posts/pwnable-kr-Rookiss/" />
+    <author>
+      <name>s1s1fo</name>
+    </author>
+
+  
+    
+    <category term="pwnable.kr" />
+    
+  
+
+  <summary>pwnable.kr es un sitio web no comercial que contiene retos enfocados a desarrollar habilidades en explotación binaria, división conocida coloquialmente como “pwn” en sitios afines.  Los retos en pwnable.kr se dividen en cuatro categorías. Ordenadas de la más fácil a la más difícil:    [Toddler’s Bottle]   [Rookiss]   [Grotesque]   [Hacker’s Secret]   En el artículo anterior presenté las solucio...</summary>
+
+  </entry>
+
+</feed>
+
+
